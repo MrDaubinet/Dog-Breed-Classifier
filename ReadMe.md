@@ -9,6 +9,7 @@ This Project had multiple goals.
 1. The first Goal of the project was to utilize a given CascadeClassifier algorithm to detect if a human face was present in an input image.
 
 ![](images/face_detected.png)
+
 2. The second Goal of the project was to use the VGG16 algorithm to detect if a dog was present in an input image and give an accuracy of how well the algorithm performs. The results of this architecture can be seen below.
 ```
 percentage of the first 100 images in human_files have a detected dog: 0.01
