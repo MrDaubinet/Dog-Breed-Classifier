@@ -35,9 +35,8 @@ This project introduced me to what a Convolutional Nerual Network is, how its ar
 
 # Get started
 ```
-git clone https://github.com/MrDaubinet/
-Predicting-Bike-Sharing-Patterns
-cd Predicting-Bike-Sharing-Patterns
+git clone https://github.com/MrDaubinet/Dog-Breed-Classifier
+cd Dog-Breed-Classifier
 jupyter notebook
 ```
 # Requirements
