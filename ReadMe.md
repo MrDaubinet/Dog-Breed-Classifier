@@ -31,7 +31,8 @@ All implementation for the above solutions can be found [here](https://github.co
 
 ### Conclusion
 This project introduced me to what a Convolutional Nerual Network is, how its architecture is made with filters, pooling and dropout layers and the benefits that can be gained when taking advantage of transfer learning.
-
+<br><br>
+To view the full project [click here](https://nbviewer.jupyter.org/github/MrDaubinet/Dog-Breed-Classifier/blob/master/dog_app.ipynb)
 
 # Get started
 ```
